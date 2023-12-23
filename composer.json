@@ -1,5 +1,5 @@
 {
-    "name": "ezsystems/ezpublish-legacy-installer",
+    "name": "se7enxweb/ezpublish-legacy-installer",
     "type": "composer-plugin",
     "description": "Installer for eZ Publish legacy extensions and legacy kernel itself.",
     "license": "GPL-2.0",
