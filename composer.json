@@ -1,7 +1,7 @@
 {
     "name": "se7enxweb/ezpublish-legacy-installer",
     "type": "composer-plugin",
-    "description": "Installer for eZ Publish legacy extensions and legacy kernel itself.",
+    "description": "Not inteaded to be used directly by end users. This is a custom composer installer for eZ Publish legacy extensions. Installer for eZ Publish Legacy extensions and Legacy Kernel.",
     "license": "GPL-2.0",
     "minimum-stability": "dev",
     "authors": [
